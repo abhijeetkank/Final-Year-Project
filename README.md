@@ -28,6 +28,7 @@ Grading](https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-datase
 
 ![KL Score](assets/kl-score.png)
 
+
 ## Purpose
 
 The purpose of this project is to correctly classify the severity of
