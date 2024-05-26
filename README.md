@@ -34,4 +34,4 @@ Grading](https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-datase
 The purpose of this project is to correctly classify the severity of
 osteoarthritis based on X-ray images.
 
-![streamlit app - knee_dl_app](assets/streamlit_knee_ss.png)
+
