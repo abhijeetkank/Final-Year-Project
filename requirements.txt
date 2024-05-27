@@ -168,7 +168,3 @@ Werkzeug==3.0.2
 widgetsnbextension==4.0.9
 wrapt==1.15.0
 zipp==3.17.0
-Python 3.11
-Tensorflow 2.13.0
-tensorflow-text 2.13.0
-tensorflow-models-official 2.13.1
